@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gowtham281003
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on development
 - 📫 How to reach me https://www.linkedin.com/in/gowtham-p-0a5b52217/ my linkedin
 
